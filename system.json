@@ -1,15 +1,13 @@
 {
   "id": "cp2020",
-  "title": "DnD5e - Fifth Edition System",
-  "description": "A system for playing the fifth edition of the worlds most popular role-playing game in the Foundry Virtual Tabletop environment.",
+  "title": "CyberPunk 2.0.2.0",
+  "description": "A Roleplaying Game for the Dark Future",
   "version": "2.3.1",
   "compatibility": {
     "minimum": "10.303",
     "verified": "11"
   },
-  "url": "https://github.com/foundryvtt/dnd5e/",
-  "manifest": "https://raw.githubusercontent.com/foundryvtt/dnd5e/master/system.json",
-  "download": "https://github.com/foundryvtt/dnd5e/releases/download/release-2.3.1/dnd5e-release-2.3.1.zip",
+  "manifest": "https://raw.githubusercontent.com/RyukyuDogs/cp2020/blob/main/system.json",
   "authors": [
     {
       "name": "Atropos",
