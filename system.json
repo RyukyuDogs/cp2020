@@ -2,9 +2,9 @@
   "id": "cp2020",
   "title": "CyberPunk 2.0.2.0",
   "description": "A Roleplaying Game for the Dark Future",
-  "version": "2.3.1",
+  "version": "0.0.1",
   "compatibility": {
-    "minimum": "10.303",
+    "minimum": "11",
     "verified": "11"
   },
   "manifest": "https://raw.githubusercontent.com/RyukyuDogs/cp2020/blob/main/system.json",
