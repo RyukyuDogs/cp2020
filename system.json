@@ -4,8 +4,8 @@
   "description": "Roleplaying Game of the Dark Future",
   "version": "0.3",
   "compatibility": {
-    "minimum": 10,
-    "verified": 11
+    "minimum": "10",
+    "verified": "11"
   },
   "authors": [{
     "name": "RyukyuDogs"
