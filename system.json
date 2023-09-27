@@ -5,7 +5,7 @@
   "version": "0.3",
   "compatibility": {
     "minimum": 10,
-    "maximum": 11
+    "verified": 11
   },
   "authors": [{
     "name": "RyukyuDogs"
