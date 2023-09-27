@@ -1,18 +1,15 @@
 {
   "id": "cp2020",
-  "title": "Boilerplate",
-  "description": "The Boilerplate system for FoundryVTT!",
-  "version": "1.2.0",
+  "title": "Cyberpunk 2.0.2.0",
+  "description": "Roleplaying Game of the Dark Future",
+  "version": "0.3",
   "compatibility": {
     "minimum": 10,
-    "verified": "10.287",
-    "maximum": 10
+    "maximum": 11
   },
   "authors": [{
-    "name": "Asacolips"
+    "name": "RyukyuDogs"
   }],
-  "esmodules": ["module/boilerplate.mjs"],
-  "styles": ["css/boilerplate.css"],
   "scripts": [],
   "packs": [],
   "languages": [
@@ -27,7 +24,7 @@
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "",
-  "manifest": "",
+  "manifest": "https://raw.githubusercontent.com/RyukyuDogs/cp2020/system.json",
   "download": "",
   "license": "LICENSE.txt",
   "changelog": "CHANGELOG.md"
