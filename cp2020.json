@@ -47,5 +47,5 @@
   "gridUnits": "ft",
   "primaryTokenAttribute": "resources.health",
   "secondaryTokenAttribute": "resources.power",
-  "manifest": "https://github.com/RyukyuDogs/cp2020/blob/main/system.json",
+  "manifest": "https://github.com/RyukyuDogs/cp2020/blob/main/cp2020.json",
 }
