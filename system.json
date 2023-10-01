@@ -2,7 +2,7 @@
   "id": "cp2020",
   "title": "Cyberpunk 2.0.2.0",
   "description": "Roleplaying Game of the Dark Future",
-  "version": "0.3",
+  "version": "0.1",
   "compatibility": {
     "minimum": "10",
     "verified": "11"
@@ -19,8 +19,8 @@
       "path": "lang/en.json"
     }
   ],
-  "gridDistance": 5,
-  "gridUnits": "ft",
+  "gridDistance": 1,
+  "gridUnits": "m",
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "url": "",
