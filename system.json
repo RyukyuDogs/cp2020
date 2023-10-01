@@ -11,8 +11,6 @@
   "authors": [{
     "name": "RyukyuDogs"
   }],
-  "esmodules": ["module/boilerplate.mjs"],
-  "styles": ["css/boilerplate.css"],
   "scripts": [],
   "packs": [],
   "languages": [
