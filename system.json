@@ -1,15 +1,18 @@
 {
   "id": "cp2020",
-  "title": "Cyberpunk 2.0.2.0",
-  "description": "Roleplaying Game of the Dark Future",
-  "version": "0.1",
+  "title": "Unofficial Cyberpunk 2020",
+  "description": "The Roleplaying Game fo the Dark Future",
+  "version": "0.0.1",
   "compatibility": {
-    "minimum": "10",
-    "verified": "11"
+    "minimum": 10,
+    "verified": "11.309",
+    "maximum": 11
   },
   "authors": [{
     "name": "RyukyuDogs"
   }],
+  "esmodules": ["module/boilerplate.mjs"],
+  "styles": ["css/boilerplate.css"],
   "scripts": [],
   "packs": [],
   "languages": [
@@ -25,4 +28,5 @@
   "secondaryTokenAttribute": "power",
   "url": "",
   "manifest": "https://raw.githubusercontent.com/RyukyuDogs/cp2020/master/system.json",
+  "download": "",
 }
